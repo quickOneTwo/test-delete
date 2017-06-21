@@ -1,5 +1,6 @@
 # test-delete
 efsf
+<<<<<<< HEAD
 aaaaa
 
 
@@ -7,3 +8,6 @@ aaaaa
 
 
 grsgrsgsrgrsgrsgsrgrsgrs
+=======
+eolflefle
+>>>>>>> refs/remotes/origin/master
